@@ -7,9 +7,6 @@ This is a simple Python desktop application built using Tkinter and pyqrcode tha
 - Save the QR code as a PNG file.
   
   Features :
-
   - Simple and clean UI using Tkinter.
-
-   - Realtime QR code generation.
-
-  - Save QR code as .png file with timestamp filename
+  - Realtime QR code generation.
+ - Save QR code as .png file with timestamp filename
